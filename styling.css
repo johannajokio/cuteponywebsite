@@ -1,0 +1,51 @@
+* {
+		text-align: center;
+	font-family: sans-serif;
+	
+}
+
+.intro {
+	background-image: url(https://img.freepik.com/free-photo/beautiful-pink-flower-background_1150-8184.jpg?size=626&ext=jpg&ga=GA1.1.672098199.1681320489&semt=sph);
+	height: 200px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top: 50px
+}
+
+.about-me {
+	text-align: center;
+}
+
+.introtext {
+	background-color: rgba(0,0,0,0.4);
+	color: white;
+	font-size: larger;
+	align-content: center;
+	padding: 50px;
+}
+
+nav {
+	display: flex;
+	justify-content: space-evenly;
+	background-color: rgb(225, 190, 231);
+	height: 40px;
+	padding-top: 20px;
+
+}
+a {
+		color: white;
+	text-decoration: none;
+	font-size: larger;
+}
+a:hover{
+	color: rgb(74, 20, 140);
+}
+
+.about-me {
+	
+}
+
+.img {
+	width: 5%;
+	margin: 15px;
+}
